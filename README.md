@@ -5,5 +5,5 @@
 - 📫 How to reach me: 
 
 ##GIT STATS
-<IMG SRC="https://github-readme-stats.vercel.app/api?
+<img src="https://github-readme-stats.vercel.app/api?
           username=Prachi-creater&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
