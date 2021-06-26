@@ -1,6 +1,6 @@
 ### Hello 👋,I'm Prachi Koundalkar
 
-UI/Ux designer & Frontend Devloper
+UI/Ux designer & Frontend Developer
 
 
 - 🌱 I’m currently learning Mobile Application Development
