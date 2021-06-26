@@ -4,7 +4,7 @@ UI/Ux designer & Frontend Devloper
 
 
 - 🌱 I’m currently learning Mobile Application Development
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/prachi-koundalkar-58699a210
 
 
 
