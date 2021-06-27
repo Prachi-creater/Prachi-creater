@@ -3,7 +3,7 @@
 UI/Ux designer & Frontend Developer
 
 
-- 🌱 I’m currently learning Mobile Application Development
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: https://www.linkedin.com/in/prachi-koundalkar-58699a210
 
 
